@@ -1,8 +1,8 @@
-[200~# RFP: Plataforma de análisis de plusvalía inmobiliaria en la CDMX
+# RFP: Plataforma de análisis de plusvalía inmobiliaria en la CDMX
 
 **Cliente:** UrbanaData Consultoría Inmobiliaria  
-**Contacto:** [Nombre del cliente que firma]  
-**Equipo redactor:** [Nombres de los integrantes del equipo]  
+**Contacto:** Juan Reyes 
+**Equipo redactor:** Reyes Carrillo Laura
 **Fecha de publicación:** 07/10/2026  
 
 ---
