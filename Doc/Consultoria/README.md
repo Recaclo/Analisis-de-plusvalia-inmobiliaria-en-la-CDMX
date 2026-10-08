@@ -2,7 +2,16 @@
 
 **Cliente:** UrbanaData Consultoría Inmobiliaria  
 **Contacto:** Juan Reyes 
-**Equipo redactor:** Reyes Carrillo Laura
+
+**Equipo redactor:** 
+
+- CORNEJO DIAZ BRENDA BERENICE
+- PEREZ NAVA FRANCISCO JAVIER
+- REYES CARRILLO LAURA
+- RODRIGUEZ ZAMORA JOSHUA
+- SALAZAR RUBI HECTOR MANUEL
+
+
 **Fecha de publicación:** 07/10/2026  
 
 ---
